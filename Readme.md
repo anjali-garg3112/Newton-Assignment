@@ -1,4 +1,5 @@
 Question 1 JS Concepts
+
 What are the primitive data types in JS?
 
 What's the difference between a variable that is: null, undefined or undeclared?
